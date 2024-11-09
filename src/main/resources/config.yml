@@ -1,0 +1,8 @@
+chat:
+  # Webhook url for chat. (REQUIRED)
+  url:
+console:
+  # Enable the console logging here
+  enabled: false
+  # Webhook url for console. Uses chat url if missing or left blank.
+  url:

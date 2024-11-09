@@ -1,0 +1,5 @@
+name: RocketChat-Logger
+version: '1.0-SNAPSHOT'
+main: net.daybreak.mc.rocketChatLogger.RocketChatLogger
+api-version: '1.21'
+load: STARTUP
